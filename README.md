@@ -66,7 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/quentin-waroquet-017008203/" target="_blank">
