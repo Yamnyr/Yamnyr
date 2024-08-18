@@ -76,6 +76,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Yamnyr/Yamnyr/output/snake.svg" alt="Snake animation" />
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 ###
