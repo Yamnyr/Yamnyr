@@ -13,8 +13,8 @@
 - 🎓 Actuellement en **Mastère Big Data & IA** à l'IPSSI.
 - 🚀 Travaillant sur des projets qui mêlent **développement web**, **IA** et **Big Data**.
 - 🛠️ Contributeur actif sur GitHub et toujours en quête de nouveaux challenges tech.
-- 💡 Aspiration : Un jour, je rêve de créer **Hurlea**, une startup innovante (oui, CEO en herbe 😄).
-- 🌱 Actuellement en train d'explorer **Flutter** et le **Machine Learning**.
+- 💡 Aspiration : CEO d'**Hurlea**).
+- 🌱 Actuellement en train de galerer avec le transcodage de fichiers MKV en HLS.
 
 <div align="left">
 </div>
