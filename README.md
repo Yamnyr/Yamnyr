@@ -7,6 +7,14 @@
 <!--   <img src="https://github-profile-trophy.vercel.app?username=Yamnyr&theme=dracula&no-bg=true&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
  
 </div>
+<h3 align="center">🌟 À propos de moi 🌟</h3>
+
+- 💻 Passionné de **développement web** et toujours à l'affût des nouvelles technologies !
+- 🎓 Actuellement en **Mastère Big Data & IA** à l'IPSSI.
+- 🚀 Travaillant sur des projets qui mêlent **développement web**, **IA** et **Big Data**.
+- 🛠️ Contributeur actif sur GitHub et toujours en quête de nouveaux challenges tech.
+- 💡 Aspiration : Un jour, je rêve de créer **Hurlea**, une startup innovante (oui, CEO en herbe 😄).
+- 🌱 Actuellement en train d'explorer **Flutter** et le **Machine Learning**.
 
 <div align="left">
 </div>
