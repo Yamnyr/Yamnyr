@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yamnyr&hide_title=false&hide_rank=true&show_icons=true&card_width=280&include_all_commits=true&no-bg=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yamnyr&hide_title=false&hide_rank=true&show_icons=true&card_width=20&include_all_commits=true&no-bg=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yamnyr&no-bg=true&locale=fr&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamnyr&no-bg=true&locale=fr&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 <!--   <img src="https://github-profile-trophy.vercel.app?username=Yamnyr&theme=dracula&no-bg=true&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
